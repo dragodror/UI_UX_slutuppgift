@@ -1,0 +1,19 @@
+[
+  {
+    "orderID": "08da0b7f-b040-4770-a460-d573d835e875",
+    "items": [
+      {
+        "name": "Hydraulic Pump",
+        "articleNumber": "HP-1001",
+        "price": 299.99,
+        "quantity": 32
+      },
+      {
+        "name": "Industrial Drill",
+        "articleNumber": "ID-2020",
+        "price": 149.5,
+        "quantity": 1
+      }
+    ]
+  }
+]
